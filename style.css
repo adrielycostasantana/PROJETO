@@ -41,6 +41,7 @@ Body * {
  padding: 0 24px; 
 }
 
+
 /*Profile*/
 
 #profile {
@@ -162,6 +163,7 @@ ul li a:hover:{
 #social-links a:hover{
     background: var(--highlight-color);
 }
+
 
 Footer{
     padding: 24px;
